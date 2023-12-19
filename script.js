@@ -2,7 +2,7 @@ const table = document.querySelector("#output");
 const searchInput = document.querySelector("#search");
 
 const ROWS_PER_PAGE = 5000;
-const DATA_URL = 'https://raw.githubusercontent.com/BuddyBuie/Formulary-Json/main/Formulary%2011-16-23.json';
+const DATA_URL = 'https://raw.githubusercontent.com/BuddyBuie/Formulary-Json/main/Formulary12-19-23%203.json';
 
 let currentPage = 0;
 let allData = [];
